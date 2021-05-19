@@ -1,4 +1,4 @@
-Javascript Pseudo 3D Racer
+Yesh Racing Car
 ==========================
 
 An Outrun-style pseudo-3d racing game in HTML5 and Javascript
